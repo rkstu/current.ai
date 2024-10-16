@@ -4,7 +4,7 @@
 
 CurrentAI is a chat application that allows users to interact with an AI model. It includes functionality for user sign-up, login, password recovery, and conversation history management. Users can save and export their chat history once logged in.
 
-Live at: https://github.com/rkstu/current.ai
+Live at: https://currentai.streamlit.app or https://currentai.onrender.com/
 
 ## Features
 
